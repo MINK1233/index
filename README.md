@@ -3,7 +3,7 @@
   <html>
      <head>
        <meta charset="utf-8">
-       <title>Olek Minkiewicz </title>
+       <title> Olek Minkiewicz </title>
      </head>
  <body>
 <p align="left"> <font color="red" size="1" face="Arial">Olek</font> </p> <br>
